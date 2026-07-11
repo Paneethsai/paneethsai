@@ -10,8 +10,12 @@
 
 <br/>
 
-<!-- About Me Section - Stacked vertically for correct full-page responsiveness -->
-## ✨ About Me
+<!-- About Me Section Header Card -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00e676,100,2979ff&height=60&section=header&text=✨%20ABOUT%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="About Me Header" />
+</p>
+
+<br/>
 
 I am an ambitious and driven **Computer Science student** specializing in **Artificial Intelligence & Machine Learning** at **Bapatla Engineering College**. I combine technical logic with creative visual style to build robust web applications, automate complex workflows, and analyze intelligence data models.
 
@@ -23,18 +27,18 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <p align="center">
   <a href="https://paneethsai.github.io/portfolio/" target="_blank">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBmYTR1ZHJkdjRtcjY4dnlzMHR2NXBxbG9wM2h5MmYxNm83b3k4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3Px4s1tqCluxeklQC/giphy.gif" width="360" alt="Coding Illustration" />
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="380" alt="Coding Illustration" />
   </a>
 </p>
 
 <br/>
 
-<!-- Divider -->
+<!-- Connect Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00e676,100,00b4d8&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2979ff,100,00e676&height=60&section=header&text=🌐%20CONNECT%20WITH%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Connect Header" />
 </p>
 
-## 🌐 Connect With Me
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ch-paneeth-sai" target="_blank">
@@ -44,24 +48,24 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
     <img src="https://img.shields.io/badge/Portfolio-00E676?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:paneethch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-00b4d8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/PANEETHxOFFICIAL" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-2979FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://leetcode.com/u/Paneethsai/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-00E676?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
 <br/>
 
-<!-- Divider -->
+<!-- Tech Stack Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00b4d8,100,2979ff&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00e676,100,2979ff&height=60&section=header&text=🛠️%20MY%20TECH%20STACK&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Tech Stack Header" />
 </p>
 
-## 🛠️ My Tech Stack
+<br/>
 
 <div align="center">
 
@@ -88,12 +92,12 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <br/>
 
-<!-- Divider -->
+<!-- Projects Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2979ff,100,00e676&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2979ff,100,00e676&height=60&section=header&text=📂%20FEATURED%20PROJECTS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Projects Header" />
 </p>
 
-## 📂 Featured Projects
+<br/>
 
 <table align="center" width="100%" border="0" cellpadding="10" cellspacing="10">
   <tr>
@@ -116,12 +120,12 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <br/>
 
-<!-- Divider -->
+<!-- Stats Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00e676,100,2979ff&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00e676,100,2979ff&height=60&section=header&text=📊%20GITHUB%20STATS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Stats Header" />
 </p>
 
-## 📊 GitHub Stats & Metrics
+<br/>
 
 <p align="center">
   <a href="https://github.com/Paneethsai">
@@ -158,7 +162,7 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <br/>
 
-<!-- Footer -->
+<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00e676,50,00b4d8,100,2979ff&height=100&section=footer&text=Keep%20Coding%20&%20Creating%20⚡&fontSize=20&fontColor=ffffff&fontAlignY=55&font=Comfortaa" width="100%" alt="Footer Banner" />
 </p>
