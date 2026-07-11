@@ -1,42 +1,37 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff0055,50,7a00ff,100,00ffcc&height=220&section=header&text=PANEETH%20SAI&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8a2be2,50,ff007f,100,ffd700&height=220&section=header&text=PANEETH%20SAI&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=CSE-AIML+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Creative+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=CSE-AIML+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Creative+Web+Developer" alt="Typing SVG" />
 </p>
 
 <br/>
 
-<!-- Intro section with layout -->
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👋 Hello World! I'm Paneeth Sai</h2>
-      <p>
-        I am a passionate and hardworking <b>CSE-AIML Student</b> at <b>Bapatla Engineering College</b>. I thrive on building creative web applications and analyzing smart systems. My ultimate goal is to bridge the gap between intelligent AI models and seamless user interfaces.
-      </p>
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech in Artificial Intelligence & Machine Learning (3rd Year)</li>
-        <li>💡 <b>Interests:</b> Full-Stack Development, AI/ML Analytics, Video Editing, and Creative Coding</li>
-        <li>🏆 <b>Key Milestones:</b> Secured highest CGPA in my 1st academic year; Active participant in <b>Smart India Hackathons (2024 & 2025)</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <a href="https://paneethsai.github.io/portfolio/" target="_blank">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBmYTR1ZHJkdjRtcjY4dnlzMHR2NXBxbG9wM2h5MmYxNm83b3k4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3Px4s1tqCluxeklQC/giphy.gif" width="280" alt="Coding Illustration" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- About Me Section - Stacked vertically for correct full-page responsiveness -->
+## ✨ About Me
+
+I am an ambitious and driven **Computer Science student** specializing in **Artificial Intelligence & Machine Learning** at **Bapatla Engineering College**. I combine technical logic with creative visual style to build robust web applications, automate complex workflows, and analyze intelligence data models.
+
+### 🌟 Key Highlights & Milestones
+- 🏆 **Academic Excellence:** Secured the **highest CGPA** in my first academic year.
+- 💡 **Innovation:** Multi-year active participant in **Smart India Hackathons (2024 & 2025)**.
+- 🎬 **Creative Suite:** Advanced skills in cinematic video editing, scripting, and post-production workflows.
+- 🚀 **Goals:** Bridging the gap between front-end interfaces and intelligence-driven AI pipelines.
+
+<p align="center">
+  <a href="https://paneethsai.github.io/portfolio/" target="_blank">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBmYTR1ZHJkdjRtcjY4dnlzMHR2NXBxbG9wM2h5MmYxNm83b3k4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3Px4s1tqCluxeklQC/giphy.gif" width="360" alt="Coding Illustration" style="border-radius: 8px;" />
+  </a>
+</p>
 
 <br/>
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ff0055,100,7a00ff&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ffd700,100,ff007f&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 🌐 Connect With Me
@@ -46,7 +41,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://paneethsai.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:paneethch@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -63,7 +58,7 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,7a00ff,100,00ffcc&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ff007f,100,8a2be2&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 🛠️ My Tech Stack
@@ -95,7 +90,7 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00ffcc,100,ff0055&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8a2be2,100,ffd700&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 📂 Featured Projects
@@ -123,23 +118,23 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ff0055,100,7a00ff&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ffd700,100,ff007f&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 📊 GitHub Stats & Metrics
 
 <p align="center">
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-stats.vercel.app/api?username=Paneethsai&show_icons=true&bg_color=0f0c1b&title_color=00ffcc&text_color=ffffff&icon_color=ff00cc&border_color=7a00ff&count_private=true" alt="GitHub Stats" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Paneethsai&show_icons=true&bg_color=0f0c1b&title_color=ffd700&text_color=ffffff&icon_color=ff007f&border_color=8a2be2&count_private=true" alt="GitHub Stats" height="195" />
   </a>
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paneethsai&layout=compact&bg_color=0f0c1b&title_color=00ffcc&text_color=ffffff&icon_color=ff00cc&border_color=7a00ff" alt="Top Langs" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paneethsai&layout=compact&bg_color=0f0c1b&title_color=ffd700&text_color=ffffff&icon_color=ff007f&border_color=8a2be2" alt="Top Langs" height="195" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paneethsai&background=0f0c1b&title=00ffcc&currStreakLabel=ff00cc&currStreakNum=ffffff&fire=ff00cc&sideLabels=ffffff&sideNumbers=ffffff&dates=ffffff&border=7a00ff" alt="GitHub Streak" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paneethsai&background=0f0c1b&title=ffd700&currStreakLabel=ff007f&currStreakNum=ffffff&fire=ff007f&sideLabels=ffffff&sideNumbers=ffffff&dates=ffffff&border=8a2be2" alt="GitHub Streak" height="195" />
   </a>
 </p>
 
@@ -157,7 +152,7 @@
 <p align="center">
   <b>📈 Interactive Activity Graph</b><br/><br/>
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paneethsai&bg_color=0f0c1b&color=00ffcc&line=ff00cc&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paneethsai&bg_color=0f0c1b&color=ffd700&line=ff007f&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </p>
 
@@ -165,7 +160,7 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,7a00ff,100,00ffcc&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ff007f,100,ffd700&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 🐍 3D Contribution Graph
@@ -180,5 +175,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,050515,30,200b3b,70,0f0c1b,100,000000&height=100&section=footer&text=Keep%20Coding%20&%20Creating%20⚡&fontSize=20&fontColor=00ffcc&fontAlignY=55" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8a2be2,50,ff007f,100,ffd700&height=100&section=footer&text=Keep%20Coding%20&%20Creating%20⚡&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" alt="Footer Banner" />
 </p>
