@@ -1,18 +1,18 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=220&section=header&text=PANEETH%20SAI&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff&font=Comfortaa" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=220&section=header&text=PANEETH%20SAI&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff&font=Comfortaa" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=24&pause=1000&color=ffb703&center=true&vCenter=true&width=500&height=50&lines=CSE-AIML+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Creative+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=24&pause=1000&color=00f2fe&center=true&vCenter=true&width=500&height=50&lines=CSE-AIML+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Creative+Web+Developer" alt="Typing SVG" />
 </p>
 
 <br/>
 
 <!-- About Me Section Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=60&section=header&text=✨%20ABOUT%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="About Me Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=✨%20ABOUT%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="About Me Header" />
 </p>
 
 <br/>
@@ -41,7 +41,7 @@ My coursework covers key foundations including:
 
 <!-- Connect Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=60&section=header&text=🌐%20CONNECT%20WITH%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Connect Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=🌐%20CONNECT%20WITH%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Connect Header" />
 </p>
 
 <br/>
@@ -51,16 +51,16 @@ My coursework covers key foundations including:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://paneethsai.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffb703?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:paneethch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8e2de2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0575e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/PANEETHxOFFICIAL" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-4a00e0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-03001e?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://leetcode.com/u/Paneethsai/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ffb703?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-00f2fe?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ My coursework covers key foundations including:
 
 <!-- Tech Stack Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=60&section=header&text=🛠️%20MY%20TECH%20STACK&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Tech Stack Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=🛠️%20MY%20TECH%20STACK&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Tech Stack Header" />
 </p>
 
 <br/>
@@ -100,7 +100,7 @@ My coursework covers key foundations including:
 
 <!-- Projects Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=60&section=header&text=📂%20FEATURED%20PROJECTS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Projects Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=📂%20FEATURED%20PROJECTS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Projects Header" />
 </p>
 
 <br/>
@@ -137,23 +137,23 @@ My coursework covers key foundations including:
 
 <!-- Stats Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=60&section=header&text=📊%20GITHUB%20STATS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Stats Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=📊%20GITHUB%20STATS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Stats Header" />
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-stats.vercel.app/api?username=Paneethsai&show_icons=true&bg_color=0a0e17&title_color=ffb703&text_color=ffffff&icon_color=8e2de2&border_color=4a00e0&count_private=true" alt="GitHub Stats" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Paneethsai&show_icons=true&bg_color=0a0e17&title_color=00f2fe&text_color=ffffff&icon_color=0575e6&border_color=0575e6&count_private=true" alt="GitHub Stats" height="195" />
   </a>
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paneethsai&layout=compact&bg_color=0a0e17&title_color=ffb703&text_color=ffffff&icon_color=8e2de2&border_color=4a00e0" alt="Top Langs" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paneethsai&layout=compact&bg_color=0a0e17&title_color=00f2fe&text_color=ffffff&icon_color=0575e6&border_color=0575e6" alt="Top Langs" height="195" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paneethsai&background=0a0e17&title=ffb703&currStreakLabel=8e2de2&currStreakNum=ffffff&fire=ffb703&sideLabels=ffffff&sideNumbers=ffffff&dates=ffffff&border=4a00e0" alt="GitHub Streak" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paneethsai&background=0a0e17&title=00f2fe&currStreakLabel=0575e6&currStreakNum=ffffff&fire=00f2fe&sideLabels=ffffff&sideNumbers=ffffff&dates=ffffff&border=0575e6" alt="GitHub Streak" height="195" />
   </a>
 </p>
 
@@ -171,7 +171,7 @@ My coursework covers key foundations including:
 <p align="center">
   <b>📈 Interactive Activity Graph</b><br/><br/>
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paneethsai&bg_color=0a0e17&color=ffb703&line=8e2de2&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paneethsai&bg_color=0a0e17&color=00f2fe&line=0575e6&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </p>
 
@@ -179,5 +179,5 @@ My coursework covers key foundations including:
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=100&section=footer&text=Keep%20Coding%20&%20Creating%20⚡&fontSize=20&fontColor=ffffff&fontAlignY=55&font=Comfortaa" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=100&section=footer&text=Keep%20Coding%20&%20Creating%20⚡&fontSize=20&fontColor=ffffff&fontAlignY=55&font=Comfortaa" width="100%" alt="Footer Banner" />
 </p>
