@@ -41,7 +41,7 @@ My coursework covers key foundations including:
 
 <!-- Connect Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,ffd700,100,ffb703&height=60&section=header&text=🌐%20CONNECT%20WITH%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=000000" width="100%" alt="Connect Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=60&section=header&text=🌐%20CONNECT%20WITH%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Connect Header" />
 </p>
 
 <br/>
@@ -100,7 +100,7 @@ My coursework covers key foundations including:
 
 <!-- Projects Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,ffd700,100,ffb703&height=60&section=header&text=📂%20FEATURED%20PROJECTS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=000000" width="100%" alt="Projects Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1a0033,40,4a00e0,70,8e2de2,100,ffb703&height=60&section=header&text=📂%20FEATURED%20PROJECTS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Projects Header" />
 </p>
 
 <br/>
