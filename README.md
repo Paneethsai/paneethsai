@@ -28,12 +28,12 @@ My coursework covers key foundations including:
 ### 🌟 Key Highlights & Milestones
 - 🏆 **Academic Excellence:** Secured the **highest CGPA** in my first academic year.
 - 💡 **Innovation:** Multi-year active participant in **Smart India Hackathons (2024 & 2025)**.
-- 🎬 **Creative Suite:** Advanced skills in cinematic video editing, scripting, and post-production workflows.
+- 🎬 **Creative Suite:** Advanced skills in video editing, scripting, and post-production workflows.
 - 🚀 **Goals:** Bridging the gap between front-end interfaces and intelligence-driven AI pipelines.
 
 <p align="center">
   <a href="https://paneethsai.github.io/portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="380" alt="Coding Illustration" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJ1ZHZ2aHBsM29mNDlyNjJ2ZXptZTR1N2VzM3pwMXpvOHRvdG91OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zg21fE652FjtufZZDR/giphy.gif" width="380" alt="3D Coder Hologram" />
   </a>
 </p>
 
@@ -46,21 +46,26 @@ My coursework covers key foundations including:
 
 <br/>
 
+<!-- Tactile 3D buttons using HTML <kbd> layout -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ch-paneeth-sai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <kbd style="padding: 10px 15px; font-size: 16px; background-color: #0d001a; color: #00e5ff; border: 1px solid #7c00e6;"><b>💼 LinkedIn</b></kbd>
   </a>
+  &nbsp;
   <a href="https://paneethsai.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+    <kbd style="padding: 10px 15px; font-size: 16px; background-color: #0d001a; color: #00e5ff; border: 1px solid #7c00e6;"><b>🌐 Portfolio</b></kbd>
   </a>
+  &nbsp;
   <a href="mailto:paneethch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7c00e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <kbd style="padding: 10px 15px; font-size: 16px; background-color: #0d001a; color: #00e5ff; border: 1px solid #7c00e6;"><b>✉️ Email</b></kbd>
   </a>
+  &nbsp;
   <a href="https://instagram.com/PANEETHxOFFICIAL" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0d001a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <kbd style="padding: 10px 15px; font-size: 16px; background-color: #0d001a; color: #00e5ff; border: 1px solid #7c00e6;"><b>📸 Instagram</b></kbd>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/Paneethsai/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-00e5ff?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <kbd style="padding: 10px 15px; font-size: 16px; background-color: #0d001a; color: #00e5ff; border: 1px solid #7c00e6;"><b>💻 LeetCode</b></kbd>
   </a>
 </p>
 
@@ -110,15 +115,17 @@ My coursework covers key foundations including:
     <td width="50%" valign="top" bgcolor="#0a0e17" align="center" style="border: 1px solid #30363d; border-radius: 8px;">
       <h3>🎥 YouTube Automation</h3>
       <p>A fully automated video creation and upload pipeline that monitors trends, generates scripts, synthesizes voiceovers, compiles media with subtitles via FFmpeg, and automatically schedules daily uploads.</p>
+      <br/>
       <a href="https://github.com/Paneethsai/youtube-shorts-automation" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        <kbd><b>📂 Source Code</b></kbd>
       </a>
     </td>
     <td width="50%" valign="top" bgcolor="#0a0e17" align="center" style="border: 1px solid #30363d; border-radius: 8px;">
       <h3>🎬 Premium Video Editor Studio</h3>
       <p>A premium, cinematic post-production portfolio, media manager, and blogging platform designed specifically for video editors, colorists, and post-production agencies.</p>
+      <br/>
       <a href="https://github.com/Paneethsai/editing" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        <kbd><b>📂 Source Code</b></kbd>
       </a>
     </td>
   </tr>
@@ -126,8 +133,9 @@ My coursework covers key foundations including:
     <td width="50%" valign="top" bgcolor="#0a0e17" align="center" style="border: 1px solid #30363d; border-radius: 8px;" colspan="2">
       <h3>🌐 Developer Portfolio & Builder</h3>
       <p>A fast, responsive single page application showcasing professional dev work, integrating client-side assets and smooth hover layouts.</p>
+      <br/>
       <a href="https://github.com/Paneethsai/portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        <kbd><b>📂 Source Code</b></kbd>
       </a>
     </td>
   </tr>
