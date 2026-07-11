@@ -12,7 +12,7 @@
 
 <!-- About Me Section Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=✨%20ABOUT%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="About Me Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0f172a,100,1e293b&height=60&section=header&text=✨%20ABOUT%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=00f2fe" width="100%" alt="About Me Header" />
 </p>
 
 <br/>
@@ -41,7 +41,7 @@ My coursework covers key foundations including:
 
 <!-- Connect Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=🌐%20CONNECT%20WITH%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Connect Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0f172a,100,1e293b&height=60&section=header&text=🌐%20CONNECT%20WITH%20ME&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=00f2fe" width="100%" alt="Connect Header" />
 </p>
 
 <br/>
@@ -68,7 +68,7 @@ My coursework covers key foundations including:
 
 <!-- Tech Stack Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=🛠️%20MY%20TECH%20STACK&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Tech Stack Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0f172a,100,1e293b&height=60&section=header&text=🛠️%20MY%20TECH%20STACK&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=00f2fe" width="100%" alt="Tech Stack Header" />
 </p>
 
 <br/>
@@ -100,7 +100,7 @@ My coursework covers key foundations including:
 
 <!-- Projects Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=📂%20FEATURED%20PROJECTS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Projects Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0f172a,100,1e293b&height=60&section=header&text=📂%20FEATURED%20PROJECTS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=00f2fe" width="100%" alt="Projects Header" />
 </p>
 
 <br/>
@@ -137,7 +137,7 @@ My coursework covers key foundations including:
 
 <!-- Stats Header Card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,03001e,40,0575e6,100,00f2fe&height=60&section=header&text=📊%20GITHUB%20STATS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=ffffff" width="100%" alt="Stats Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0f172a,100,1e293b&height=60&section=header&text=📊%20GITHUB%20STATS&fontSize=25&fontAlignY=50&font=Comfortaa&fontColor=00f2fe" width="100%" alt="Stats Header" />
 </p>
 
 <br/>
