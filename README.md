@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff5722,50,7c4dff,100,00e5ff&height=220&section=header&text=PANEETH%20SAI&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00e676,50,00b4d8,100,2979ff&height=220&section=header&text=PANEETH%20SAI&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff&font=Comfortaa" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=50&lines=CSE-AIML+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Creative+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=500&height=50&lines=CSE-AIML+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Creative+Web+Developer" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -31,7 +31,7 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ff5722,100,7c4dff&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00e676,100,00b4d8&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 🌐 Connect With Me
@@ -41,7 +41,7 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://paneethsai.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00E676?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:paneethch@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -58,7 +58,7 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,7c4dff,100,00e5ff&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00b4d8,100,2979ff&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 🛠️ My Tech Stack
@@ -90,21 +90,21 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00e5ff,100,ff5722&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2979ff,100,00e676&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 📂 Featured Projects
 
 <table align="center" width="100%" border="0" cellpadding="10" cellspacing="10">
   <tr>
-    <td width="50%" valign="top" bgcolor="#0d0b18" align="center" style="border: 1px solid #30363d; border-radius: 8px;">
+    <td width="50%" valign="top" bgcolor="#0a0e17" align="center" style="border: 1px solid #30363d; border-radius: 8px;">
       <h3>🎥 YouTube Automation</h3>
       <p>A fully automated video creation and upload pipeline that monitors trends, generates scripts, synthesizes voiceovers, compiles media with subtitles via FFmpeg, and automatically schedules daily uploads.</p>
       <a href="https://github.com/Paneethsai/youtube-shorts-automation" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
       </a>
     </td>
-    <td width="50%" valign="top" bgcolor="#0d0b18" align="center" style="border: 1px solid #30363d; border-radius: 8px;">
+    <td width="50%" valign="top" bgcolor="#0a0e17" align="center" style="border: 1px solid #30363d; border-radius: 8px;">
       <h3>🎬 Premium Video Editor Studio</h3>
       <p>A premium, cinematic post-production portfolio, media manager, and blogging platform designed specifically for video editors, colorists, and post-production agencies.</p>
       <a href="https://github.com/Paneethsai/editing" target="_blank">
@@ -118,23 +118,23 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ff5722,100,7c4dff&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00e676,100,2979ff&height=40&section=header" width="100%" alt="Section Divider" />
 </p>
 
 ## 📊 GitHub Stats & Metrics
 
 <p align="center">
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-stats.vercel.app/api?username=Paneethsai&show_icons=true&bg_color=0f0c1b&title_color=ff5722&text_color=ffffff&icon_color=00e5ff&border_color=7c4dff&count_private=true" alt="GitHub Stats" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Paneethsai&show_icons=true&bg_color=0a0e17&title_color=00e676&text_color=ffffff&icon_color=2979ff&border_color=00b4d8&count_private=true" alt="GitHub Stats" height="195" />
   </a>
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paneethsai&layout=compact&bg_color=0f0c1b&title_color=ff5722&text_color=ffffff&icon_color=00e5ff&border_color=7c4dff" alt="Top Langs" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paneethsai&layout=compact&bg_color=0a0e17&title_color=00e676&text_color=ffffff&icon_color=2979ff&border_color=00b4d8" alt="Top Langs" height="195" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paneethsai&background=0f0c1b&title=ff5722&currStreakLabel=00e5ff&currStreakNum=ffffff&fire=ff5722&sideLabels=ffffff&sideNumbers=ffffff&dates=ffffff&border=7c4dff" alt="GitHub Streak" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paneethsai&background=0a0e17&title=00e676&currStreakLabel=2979ff&currStreakNum=ffffff&fire=2979ff&sideLabels=ffffff&sideNumbers=ffffff&dates=ffffff&border=00b4d8" alt="GitHub Streak" height="195" />
   </a>
 </p>
 
@@ -152,7 +152,7 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 <p align="center">
   <b>📈 Interactive Activity Graph</b><br/><br/>
   <a href="https://github.com/Paneethsai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paneethsai&bg_color=0f0c1b&color=00e5ff&line=ff5722&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paneethsai&bg_color=0a0e17&color=00e676&line=2979ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </p>
 
@@ -160,5 +160,5 @@ I am an ambitious and driven **Computer Science student** specializing in **Arti
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff5722,50,7c4dff,100,00e5ff&height=100&section=footer&text=Keep%20Coding%20&%20Creating%20⚡&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00e676,50,00b4d8,100,2979ff&height=100&section=footer&text=Keep%20Coding%20&%20Creating%20⚡&fontSize=20&fontColor=ffffff&fontAlignY=55&font=Comfortaa" width="100%" alt="Footer Banner" />
 </p>
