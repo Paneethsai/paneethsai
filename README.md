@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0f0c1b,40,200b3b,70,050515,100,050515&height=250&section=header&text=PANEETH%20SAI&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=00ffcc" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff0055,50,7a00ff,100,00ffcc&height=260&section=header&text=PANEETH%20SAI&fontSize=75&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
 </div>
 
 <!-- Typing SVG -->
@@ -14,7 +14,7 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h2>👋 Hello World! I'm Paneeth Sai Chennamsetty</h2>
+      <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Nqdnh2ZHB6ODFwdDVsNncybDZ4a2pxZHhqejZtZnd0NDJocDZ4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4JCeF/giphy.gif" width="30px"/> Hello World! I'm Paneeth Sai</h2>
       <p>
         I am a passionate and hardworking <b>CSE-AIML Student</b> at <b>Bapatla Engineering College</b>. I thrive on building creative web applications and analyzing smart systems. My ultimate goal is to bridge the gap between intelligent AI models and seamless user interfaces.
       </p>
@@ -26,7 +26,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
       <a href="https://paneethsai.github.io/portfolio/" target="_blank">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBmYTR1ZHJkdjRtcjY4dnlzMHR2NXBxbG9wM2h5MmYxNm83b3k4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3Px4s1tqCluxeklQC/giphy.gif" width="280px" alt="Coding Illustration" style="border-radius: 10px;" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBmYTR1ZHJkdjRtcjY4dnlzMHR2NXBxbG9wM2h5MmYxNm83b3k4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3Px4s1tqCluxeklQC/giphy.gif" width="280px" alt="Coding Illustration" style="border-radius: 10px; border: 2px solid #7a00ff;" />
       </a>
     </td>
   </tr>
@@ -36,7 +36,7 @@
 
 <!-- Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00ffcc,100,9b5de5&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ff0055,100,7a00ff&height=40&section=header" width="100%" alt="Section Divider" />
 </div>
 
 ## 🌐 Connect With Me
@@ -55,7 +55,7 @@
 
 <!-- Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,9b5de5,100,00ffcc&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,7a00ff,100,00ffcc&height=40&section=header" width="100%" alt="Section Divider" />
 </div>
 
 ## 🛠️ My Tech Stack
@@ -87,14 +87,14 @@
 
 <!-- Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00ffcc,100,9b5de5&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00ffcc,100,ff0055&height=40&section=header" width="100%" alt="Section Divider" />
 </div>
 
 ## 📂 Featured Projects
 
 <table align="center" width="100%" border="0" cellpadding="10">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px;">
+    <td width="50%" valign="top" style="border: 2px solid #7a00ff; border-radius: 12px; background-color: #0d0b18;">
       <div align="center">
         <h3>🎥 YouTube Automation</h3>
         <p>A fully automated video creation and upload pipeline that monitors trends, generates scripts, synthesizes voiceovers, compiles media with subtitles via FFmpeg, and automatically schedules daily uploads.</p>
@@ -105,7 +105,7 @@
         </p>
       </div>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px;">
+    <td width="50%" valign="top" style="border: 2px solid #00ffcc; border-radius: 12px; background-color: #0d0b18;">
       <div align="center">
         <h3>🎬 Premium Video Editor Studio</h3>
         <p>A premium, cinematic post-production portfolio, media manager, and blogging platform designed specifically for video editors, colorists, and post-production agencies.</p>
@@ -123,7 +123,7 @@
 
 <!-- Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,9b5de5,100,00ffcc&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,ff0055,100,7a00ff&height=40&section=header" width="100%" alt="Section Divider" />
 </div>
 
 ## 📊 GitHub Stats & Metrics
@@ -133,19 +133,19 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/Paneethsai">
-        <img src="https://github-readme-stats.vercel.app/api?username=Paneethsai&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Paneethsai&show_icons=true&bg_color=0f0c1b&title_color=00ffcc&text_color=ffffff&icon_color=ff00cc&border_color=7a00ff&count_private=true" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/Paneethsai">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paneethsai&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paneethsai&layout=compact&bg_color=0f0c1b&title_color=00ffcc&text_color=ffffff&icon_color=ff00cc&border_color=7a00ff" alt="Top Langs" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" valign="top">
       <a href="https://github.com/Paneethsai">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paneethsai&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paneethsai&background=0f0c1b&title=00ffcc&currStreakLabel=ff00cc&currStreakNum=ffffff&fire=ff00cc&sideLabels=ffffff&sideNumbers=ffffff&dates=ffffff&border=7a00ff" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -163,9 +163,19 @@
 
 <br/>
 
+<!-- Activity Graph -->
+<div align="center">
+  <h3>📈 Interactive Activity Graph</h3>
+  <a href="https://github.com/Paneethsai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paneethsai&bg_color=0f0c1b&color=00ffcc&line=ff00cc&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
+</div>
+
+<br/>
+
 <!-- Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00ffcc,100,9b5de5&height=40&section=header" width="100%" alt="Section Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,7a00ff,100,00ffcc&height=40&section=header" width="100%" alt="Section Divider" />
 </div>
 
 ## 🐍 3D Contribution Graph
